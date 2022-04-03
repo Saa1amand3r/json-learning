@@ -1,3 +1,3 @@
 # json-learning
-For Datorium
+For Datorium.
 It is a training repository for school tasks
